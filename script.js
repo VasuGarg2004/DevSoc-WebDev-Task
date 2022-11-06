@@ -1,3 +1,5 @@
+// Not Linked to HTML file
+
 const listContainer = document.querySelector("#list-container");
 const li = document.querySelector(".li");
 const div = document.createElement("div");
